@@ -15,4 +15,4 @@ nuclei -t rce-CVE-2021-21224.yaml -headless
 ```
 
 # References
-- https://lude.rs/h4ck1ng/pwning_nuclei.html
+- https://lude.rs/h4ck1ng/messing_nuclei_up.html
